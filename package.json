@@ -1,0 +1,42 @@
+{
+  "name": "redux-base",
+  "version": "1.0.0",
+  "description": "A template for building Express/Redux-based Webapps",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrprim/reduxBase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrprim/reduxBase/issues"
+  },
+  "homepage": "https://github.com/mrprim/reduxBase#readme",
+  "dependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "body-parser": "^1.15.2",
+    "css-loader": "^0.26.1",
+    "express": "^4.14.0",
+    "file-loader": "^0.9.0",
+    "font-awesome": "^4.7.0",
+    "font-awesome-webpack": "0.0.4",
+    "http": "0.0.0",
+    "json-loader": "^0.5.4",
+    "less": "^2.7.1",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webfontloader": "^1.6.27",
+    "webpack": "^1.13.3"
+  }
+}
